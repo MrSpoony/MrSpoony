@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSpoony
 - 👀 I’m interested in speedcubing, sports, and computer science
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, Java and C++ (and a little bit of Go)
 - 📫 How to reach me kimiloeffel@gmail.com
 - Follow me on Insta: @mrspoony100 if you want
 
