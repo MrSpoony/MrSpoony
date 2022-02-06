@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrSpoony
-- 👀 I’m interested in speedcubing, sports, and computer science
-- 🌱 I’m currently learning Python, Java and C++ (and a little bit of Go)
-- 📫 How to reach me kimiloeffel@gmail.com
-- Follow me on Insta: @mrspoony100 if you want
+- 👀 I’m interested in everything that is FOSS, speedcubing, athletics, and obviously computer science
+- 🤩 I like competitive programming, data science, cyber-security and full-stack developmend with a trend to backend development
+- 🌱 I’m currently learning Python, Java, C++, Go and LaTeX
+- 📫 How to reach me: kimiloeffel@gmail.com
 
 <!---
 MrSpoony/MrSpoony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
