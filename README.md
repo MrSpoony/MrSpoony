@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrSpoony
-- 👀 I’m interested in everything that is FOSS, speedcubing, athletics, and obviously computer science
-- 🤩 I like competitive programming, data science, cyber-security and full-stack developmend with a trend to backend development
-- 🌱 I’m currently learning Python, Java, C++, Go and LaTeX
-- 📫 How to reach me: kimiloeffel@gmail.com
+- 👀 I’m interested in everything that is FOSS, speedcubing, athletics, and obviously computer science.
+- 🤩 I like competitive programming, data science and full-stack developmend with a trend to backend development.
+- 🌱 I also like to learn about new technologies and programming languages.
+- 📫 How to reach me: `kimiloeffel <at> gmail.com`
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
