@@ -7,10 +7,10 @@
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSpoony&theme=radical" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrSpoony&theme=gruvbox" alt="TopCodeBeast" align = "center"/></p>
 
 <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSpoony&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSpoony&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="TopCodeBeast" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSpoony&hide_border=true&count_private=true&show_icons=true&theme=gruvbox" alt="TopCodeBeast" align = "center"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrSpoony&locale=en&layout=compact&hide_border=true&theme=gruvbox&langs_count=6&hide=shell" alt="TopCodeBeast" align = "center"/></p>
 
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrSpoony&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="TopCodeBeast" /></p>
